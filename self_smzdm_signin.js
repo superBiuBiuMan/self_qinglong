@@ -1,4 +1,5 @@
 /*
+0 0 8 * * * self_aaaxmbs0809_z.js
 SMZDM_COOKIE 什么值得买Cookie 多个 &区分
 什么值得买自动签到任务
 */

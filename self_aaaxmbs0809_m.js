@@ -1,4 +1,6 @@
 /*
+
+0 30 8 * * * self_aaaxmbs0809_m.js
  * 更新时间: 2021-8-8 13:43:28
  * TG频道: https://t.me/ioshkj7
  * 微信公众号: ios黑科技
